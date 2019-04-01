@@ -1,0 +1,110 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a8d2ea;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+    font-weight: bold;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #83c2a3;
+}
+
+body {
+    background-color: #f7f1e3;
+}
+h1 {
+    font: normal 13px Helvetica;
+    font-weight: bold; 
+    float: inherit;
+}
+}
+div h2 {
+    float: left;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    padding-top: 30px;
+    display: inline;
+    background-color: #83c2a3;
+    
+}
+h2 {
+    font: normal 37px Helvetica;
+}
+h3 {
+    margin: 80px 80px 10px 80px;
+    padding-top: 50px;
+     text-align: center;
+  padding: 14px 16px;
+    font: normal 26px Myriad Pro;
+    font-weight: bold;
+}
+h4 {
+    text-align: center;
+    display: inline;
+    margin: 100px 100px 100px 100px;
+}
+div.mealkit {
+    background-color: #83c2a3;
+    border: 1px solid black;
+    padding: 0;
+    height: 350px;
+    
+   
+}
+
+miamilogo.png {
+   
+    float: right;
+    padding: 0;
+    margin-top: 50px;
+    
+}
+.collumn {
+    width: 33%;
+    float: left;
+}
+
+.menu {
+    
+}
+
+.options {
+    display: inline-block;
+    width: 20%;
+    margin-left: 3%;
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    width: 120px;
+    margin: 40px 115px 40px 115px;
+    padding: 0;
+    height: auto;
+    font: normal 10px Helvetica;
+    text-align: center;
+    background-color: #f7f1e3;
+    float: center;
+}
+.caption {
+    display: block;
+    font-weight: bold;
+}
+p {
+    text-align: center;
+    font: normal 23px Myriad Pro;
+}
